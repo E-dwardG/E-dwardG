@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @E-dwardG
-- 👀 I’m interested in Epidemiological modelling
-- 🌱 I’m currently learning Lean
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mathematical modelling
+- 🌱 I’m currently learning R
+- 📫 Reach me on Linkedin
+- 💞️ I’m looking to collaborate on Mathematical finance models
 
 <!---
 E-dwardG/E-dwardG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
