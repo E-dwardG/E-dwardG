@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @E-dwardG
 - 👀 I’m interested in Mathematical modelling
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning MLR3 in R
 - 📫 Reach me on Linkedin
 - 💞️ I’m looking to collaborate on Mathematical finance or DES models
 
